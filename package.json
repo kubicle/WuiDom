@@ -17,7 +17,7 @@
 	"registry": "npm",
 	"dependencies": {
 		"util": "0.10.3",
-		"events": "git://github.com/kubicle/events.git#6faedb20bd0dcaeb26eb5b6936ea3dfacc464fbe",
+		"events": "git://github.com/kubicle/events.git#ce51796df6411b6d7f0af560d176f177ceb42d98",
 		"dom-shims": "0.1.4"
 	},
 	"devDependencies": {
